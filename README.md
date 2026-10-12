@@ -1,5 +1,5 @@
-# data-science-cheat-sheets
-# 📊 Data Science Cheat Sheets
+
+# 📊 `Data Science Cheat Sheets`
 
 A practical collection of beginner-friendly cheat sheets covering Python, SQL, statistics, data analysis, and machine learning. Designed for quick reference, revision, and hands-on learning.
 

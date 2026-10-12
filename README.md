@@ -50,6 +50,6 @@ For substantial changes, open an issue first and submit a pull request with a cl
 - [ ] Machine learning evaluation metrics
 - [ ] Feature engineering reference
 
-## 📄 License
+## 📄 `License`
 
 This project is intended for educational purposes. A license can be added to clarify how others may reuse and distribute its contents.
